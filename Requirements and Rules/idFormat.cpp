@@ -10,10 +10,10 @@ float boat_speed = 0.1f;
 void mouse(int button, int state, int x, int y);
 void keyboard(unsigned char key, int x, int y);
 
-void drawTree1(float x, float y);   //  O21
-void drawTree2(float x, float y);   //  O22
-void drawBoat(float x, float y);    //  O23
-void moveBoat();                    //  A21
+void drawTree1(float x, float y);   //  O201
+void drawTree2(float x, float y);   //  O202
+void drawBoat(float x, float y);    //  O203
+void moveBoat();                    //  A201
 
 void mouse(int button, int state, int x, int y) {
     if (button == GLUT_LEFT_BUTTON && state == GLUT_DOWN) {
@@ -27,7 +27,7 @@ void keyboard(unsigned char key, int x, int y) {
     }
 }
 
-void drawTree1(float x, float y) {      // O21
+void drawTree1(float x, float y) {      // O201
     glColor3f(0.0f, 1.0f, 0.0f);  
     glBegin(GL_TRIANGLES);
     glVertex2f(x, y);            
@@ -36,7 +36,7 @@ void drawTree1(float x, float y) {      // O21
     glEnd();
 }
 
-void drawTree2(float x, float y) {      // O22
+void drawTree2(float x, float y) {      // O202
     glColor3f(0.0f, 0.8f, 0.0f); 
     glBegin(GL_TRIANGLES);
     glVertex2f(x, y);           
@@ -45,7 +45,7 @@ void drawTree2(float x, float y) {      // O22
     glEnd();
 }
 
-void drawBoat(float x, float y) {       // O23
+void drawBoat(float x, float y) {       // O203
     glColor3f(0.8f, 0.2f, 0.2f); 
     glBegin(GL_POLYGON);
     glVertex2f(x, y);          
@@ -55,7 +55,7 @@ void drawBoat(float x, float y) {       // O23
     glEnd();
 }
 
-void moveBoat() {                       // A21
+void moveBoat() {                       // A201
     boat_position += boat_speed;  
     if (boat_position > 100) boat_position = -100;  
     glutPostRedisplay();  
@@ -63,9 +63,9 @@ void moveBoat() {                       // A21
 
 void display() {
     glClear(GL_COLOR_BUFFER_BIT);
-    drawTree1(tree1_position, -20);  // O21
-    drawTree2(tree2_position, -20);  // O22
-    drawBoat(boat_position, -30);    // O23
+    drawTree1(tree1_position, -20);  // O201
+    drawTree2(tree2_position, -20);  // O202
+    drawBoat(boat_position, -30);    // O203
     glFlush();
 }
 
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     glutCreateWindow("Scene with Objects and Animations");
     init();
     glutDisplayFunc(display);
-    glutTimerFunc(16, moveBoat, 0);  // A21
+    glutTimerFunc(16, moveBoat, 0);  // A201
     glutMainLoop();
     return 0;
 }
