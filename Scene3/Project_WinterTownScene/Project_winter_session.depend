@@ -873,3 +873,13 @@
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
+1737923975 source:d:\graphics lab\learning_computer_graphics_cpp\project_wintertownscene\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<ctime>
+
+1737925921 source:d:\graphics lab\computergraphicsproject\scene3\project_wintertownscene\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<ctime>
+
