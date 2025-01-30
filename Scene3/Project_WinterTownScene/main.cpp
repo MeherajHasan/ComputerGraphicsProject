@@ -26,9 +26,9 @@ void drawSnow(int value)// A312
     if (snowing) {
         glClear(GL_COLOR_BUFFER_BIT);
 
-        glColor3f(1.0f, 1.0f, 1.0f); // Snow color (white)
+        glColor3f(1.0f, 1.0f, 1.0f);
 
-        for (int i = 0; i < 500; i++) { // 500 snowflakes
+        for (int i = 0; i < 500; i++) {
             float x = rand() % 1200 - 600; // Random x-coordinate (-600 to 600)
             float y = rand() % 600 - 300;  // Random y-coordinate (-300 to 300)
 
@@ -38,9 +38,9 @@ void drawSnow(int value)// A312
             glEnd();
         }
 
-        glFlush();                        // Render the scene
-        glutPostRedisplay();              // Request a redraw
-        glutTimerFunc(16, drawSnow, 0);   // Schedule next call to `drawSnow`
+        glFlush();
+        glutPostRedisplay();
+        glutTimerFunc(16, drawSnow, 0);
     }
 }
 void drawCircle2(GLfloat centerX, GLfloat centerY, GLfloat radius)
