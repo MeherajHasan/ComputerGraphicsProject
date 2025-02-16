@@ -40,13 +40,15 @@ This project is an interactive <b>OpenGL-based</b> simulation that visually repr
 - **Weather effects** (rain, snow, lightning) ☁️  
 - **User interactions** (keyboard/mouse for toggling lights, animations, etc.) 🖱️⌨️  
 
-## 🏆 Team Members & Contributions  
-| **Name**                | **Scene**                   | **Contributions**          |  
-|-------------------------|----------------------------|----------------------------|  
-| **Kaniz Faria Ahmed**   | Scene 1 - Summer in Town   | City buildings, vehicles, sun, transitions |  
-| **Meheraj Hasan**       | Scene 2 - Rainy Season     | Rainfall, river, boats, windmill, lightning |  
-| **Kazi Mahfuzur Rahman**| Scene 3 - Winter in Town   | Snowfall, moving train, traffic system |  
-| **Shams Pahlowan Soad** | Scene 4 - Winter in Rural  | Snowy village, windmills, stars, lanterns |  
+## 🏆 Team Members  
+
+| **Student ID**  | **Name**                | **Scene**                   |  
+|---------------|-------------------------|----------------------------|  
+| 22-46429-1   | **Kaniz Faria Ahmed**    | Scene 1 - Summer in Town   |  
+| 22-49363-3   | **Meheraj Hasan**        | Scene 2 - Rainy Season in Rural Area     |  
+| 22-47384-2   | **Kazi Mahfuzur Rahman** | Scene 3 - Winter in Town   |  
+| 22-49342-3   | **Shams Pahlowan Soad**  | Scene 4 - Winter in Rural Area  |  
+
 
 ## 🚀 Installation & Execution  
 1️⃣ Clone the repository:  
