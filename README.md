@@ -3,7 +3,10 @@
 ### 🎨 **Computer Graphics Project || Fall 2024-2025**  
 
 ## 📌 About the Project  
-This project is an interactive **OpenGL-based** simulation that visually represents the **seasonal transformations of Bangladesh** across **urban and rural landscapes**. It features dynamic **weather effects, animated elements, and interactive transitions**, offering an engaging experience of Bangladesh’s unique seasonal diversity.  
+<p align="justify">
+This project is an interactive <b>OpenGL-based</b> simulation that visually represents the <b>seasonal transformations of Bangladesh</b> across <b>urban and rural landscapes</b>. It features dynamic <b>weather effects, animated elements, and interactive transitions</b>, offering an engaging experience of Bangladesh’s unique seasonal diversity.
+</p>
+
 
 ### 🏙️ **Scenes & Features**  
 🔹 **Scene 1 - Summer in Town** 🌞  
