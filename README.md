@@ -12,22 +12,51 @@ This project is an interactive <b>OpenGL-based</b> simulation that visually repr
 🔹 **Scene 1 - Summer in Town** 🌞  
 - Moving **cars & trucks** on the road 🚗  
 - **Clouds drifting**, **airplane flying** ✈️  
-- **Day-night transitions** and interactive **streetlights**  
+- **Day-night transitions** and interactive **streetlights**
+**Screenshots:**  
+<p align="center">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene1/Scene1_day.png" alt="Summer in Town - Day" width="45%">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene1/Scene1_night.png" alt="Summer in Town - Night" width="45%">
+  <br>
+  <i>Figure 1: Summer in Town - Day &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure 2: Summer in Town - Night</i>
+</p>
 
-🌧️ **Scene 2 - Rainy Season in Rural Area** 🌾  
+### 🌧️ **Scene 2 - Rainy Season in Rural Area** 🌾  
 - **Raindrops falling**, **ripple effects on water** 💦  
 - **Lightning flashes**, **boats moving on the river** ⛵  
-- **Fireflies glowing** in the night 🌟  
+- **Fireflies glowing** in the night 🌟
+**Screenshots:**
+<p align="center">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene2/Scene2_day.png" alt="Rainy Season in Rural Area - Day" width="45%">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene2/Scene2_night.png" alt="Rainy Season in Rural Area - Night" width="45%">
+  <br>
+  <i>Figure 3: Rainy Season in Rural Area - Day &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure 4: Rainy Season in Rural Area - Night</i>
+</p>
 
-❄️ **Scene 3 - Winter in Town** 🏙️  
+### ❄️ **Scene 3 - Winter in Town** 🏙️  
 - **Snowfall**, **foggy morning**, and **visible breath vapor** ☕  
 - **Moving trains & cars**, **glowing streetlights** 🚉  
-- **Winter ambiance with realistic cold effects**  
+- **Winter ambiance with realistic cold effects**
+**Screenshots:**
+<p align="center">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene3/Scene3_day.png" alt="Winter in Town - Day" width="45%">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene3/Scene3_night.png" alt="Winter in Town - Night" width="45%">
+  <br>
+  <i>Figure 5: Winter in Town - Day &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure 6: Winter in Town - Night</i>
+</p>
 
-🌨️ **Scene 4 - Winter in Rural Area** 🏡  
+
+### 🌨️ **Scene 4 - Winter in Rural Area** 🏡  
 - **Snowflakes falling**, **windmills rotating** ⚙️  
 - **Lanterns inside village huts** glowing 🔥  
-- **Frozen pond and cold, white scenery**  
+- **Frozen pond and cold, white scenery**
+**Screenshots:**
+<p align="center">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene4/Scene4_day.png" alt="Winter in Rural Area - Day" width="45%">
+  <img src="https://github.com/MeherajHasan/ComputerGraphicsProject/blob/main/Scene4/Scene4_night.png" alt="Winter in Rural Area - Night" width="45%">
+  <br>
+  <i>Figure 7: Winter in Rural Area - Day &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure 8: Winter in Rural Area - Night</i>
+</p>
 
 ## 🔧 Technologies Used  
 - **OpenGL** – Graphics rendering  
